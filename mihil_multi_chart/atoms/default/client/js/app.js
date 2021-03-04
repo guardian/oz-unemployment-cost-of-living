@@ -6,7 +6,9 @@ let target = "#graphicContainer";
 
 function makeCharts(data) {
 
-	d3.select("#chartTitle").text("Changes in prices and unemployment benefits")
+    console.log(data)
+
+	d3.select("#chartTitle").text("Changes in prices of essential goods and services, compared to unemployment benefits")
 
 	d3.select("#subTitle").text("Both CPI data and unemployment benefits have been indexed at 100 in 2011")
 
@@ -177,57 +179,12 @@ function makeCharts(data) {
             .attr("text-anchor", "end")
             .text("Date");	
 
-        //     var	valueline = d3.svg.line()
-        //     .x(function(d) { return x(d.date); })
-        //     .y(function(d) { return y(d["UB Index for singles over 21"]); });
-            
-        // var	valueline2 = d3.svg.line()
-        //     .x(function(d) { return x(d.date); })
-        //     .y(function(d) { return y(d[vary]); });
-
-     
-        // features.append("circle")
-        //     .attr("cy", (d) => {
-        //       return this.y(tempLabelData[tempLabelData.length - 1][key])
-        //     })
-        //     .attr("fill", (d) => this.colors.get(key))
-        //     .attr("cx", (d) => {
-        //       return this.x(tempLabelData[tempLabelData.length - 1][this.xColumn])
-        //     })
-        //     .attr("r", 4)
-        //     .style("opacity", 1)
-  
-        // if (!this.isMobile && this.lineLabelling) {
-          
-  
-        //   this.$features
-        //     .append("text")
-        //     .attr("class", "annotationText")
-        //     .attr("y", (d) => {
-        //       return (
-        //         this.y(tempLabelData[tempLabelData.length - 1][key]) +
-        //         4 +
-        //         lineLabelOffset
-        //       )
-        //     })
-        //     .attr("x", (d) => {
-        //       return (
-        //         this.x(tempLabelData[tempLabelData.length - 1][this.xColumn]) + 5
-        //       )
-        //     })
-        //     .style("opacity", 1)
-        //     .attr("text-anchor", lineLabelAlign)
-        //     .text((d) => {
-        //       return key
-        //     })
-        // }
-
     })
 
 
 } 
 
-var q = Promise.all([d3.csv("<%= path %>/selected_cpi_ub_PIVOTED.csv")])
+var q = Promise.all([d3.csv("<%= path %>/MIHL_UB_index_pivoted.csv")])
 
 					.then(([data]) => {
 						

@@ -32,7 +32,7 @@ in_df = pd.read_excel(index_cv, sheet_name="Data1")
 
 nammo = [('Unnamed: 0', "Date"), ("Index Numbers ;  Rents ;  Australia ;", "Rent"), ("Index Numbers ;  Milk ;  Australia ;", "Milk"), 
 ("Index Numbers ;  Vegetables ;  Australia ;", "Vegetables"), ("Index Numbers ;  Utilities ;  Australia ;", "Utilities"),
-("Index Numbers ;  Child care ;  Australia ;", "Childcare")]
+("Index Numbers ;  Child care ;  Australia ;", "Childcare"), ("Index Numbers ;  Personal care products ;  Australia ;", "Personal Care")]
 
 speci = [x[0] for x in nammo]
 short_names = [x[1] for x in nammo]
@@ -58,9 +58,10 @@ combined = pd.concat([ub_pivot, in_pivot])
 
 import datetime 
 # cutoff_date = datetime.date(1985, 1, 1)
-cutoff_date = datetime.date(1980, 1, 1)
+cutoff_date = datetime.date(1990, 1, 1)
+# print(combined.size)
 combined = combined.loc[combined['Date'] > datetime.datetime.combine(cutoff_date, datetime.datetime.min.time())]
-
+# print(combined.size)
 pivoted = combined.pivot(index="Date", columns="variable", values="value").reset_index()
 pivoted['Date'] = pivoted['Date'].dt.strftime('%Y-%m-%d')
 
@@ -74,7 +75,7 @@ with open(f'{data_path}/data/selected_cpi_ub.csv', "w") as f:
 with open(f'{data_path}/data/selected_cpi_ub_PIVOTED.csv', "w") as f:
     combined.to_csv(f, index=False, header=True)
 
-print(combined)
+print(combined) 
 
 def makeTestingLine(df):
 	

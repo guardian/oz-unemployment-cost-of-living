@@ -1,0 +1,807 @@
+Date,value,variable
+1990-04-18,53.410024650780606,UB Index for singles over 21
+1990-09-20,55.17666392769105,UB Index for singles over 21
+1991-09-20,57.046014790468355,UB Index for singles over 21
+1992-03-20,57.908792111750195,UB Index for singles over 21
+1992-09-20,57.908792111750195,UB Index for singles over 21
+1993-03-20,58.07313064913722,UB Index for singles over 21
+1993-09-20,58.83319638455217,UB Index for singles over 21
+1994-03-20,60.41495480690222,UB Index for singles over 21
+1994-09-20,61.072308956450286,UB Index for singles over 21
+1995-03-20,61.93508627773213,UB Index for singles over 21
+1995-09-20,63.78389482333608,UB Index for singles over 21
+1996-03-20,65.05751848808545,UB Index for singles over 21
+1996-09-20,65.77649958915364,UB Index for singles over 21
+1997-03-20,66.04354971240755,UB Index for singles over 21
+1997-09-20,66.04354971240755,UB Index for singles over 21
+1998-03-20,66.04354971240755,UB Index for singles over 21
+1998-09-20,66.43385373870171,UB Index for singles over 21
+1999-03-20,66.9063270336894,UB Index for singles over 21
+1999-09-20,67.11175020542316,UB Index for singles over 21
+2000-03-20,68.11832374691865,UB Index for singles over 21
+2000-07-01,70.85045193097781,UB Index for singles over 21
+2000-09-20,72.06244864420707,UB Index for singles over 21
+2001-03-20,73.50041084634347,UB Index for singles over 21
+2001-09-20,74.89728841413311,UB Index for singles over 21
+2002-03-20,75.8011503697617,UB Index for singles over 21
+2002-09-20,77.01314708299095,UB Index for singles over 21
+2003-03-20,78.08134757600658,UB Index for singles over 21
+2003-09-20,79.08792111750205,UB Index for singles over 21
+2004-03-20,79.9506984387839,UB Index for singles over 21
+2004-09-20,81.05998356614627,UB Index for singles over 21
+2005-03-20,82.025472473295,UB Index for singles over 21
+2005-09-20,83.09367296631059,UB Index for singles over 21
+2006-03-20,84.3467543138866,UB Index for singles over 21
+2006-09-20,86.46261298274445,UB Index for singles over 21
+2007-03-20,87.16105176663928,UB Index for singles over 21
+2007-09-20,88.29087921117502,UB Index for singles over 21
+2008-03-20,89.79046836483155,UB Index for singles over 21
+2008-09-20,92.29663105998357,UB Index for singles over 21
+2009-03-20,93.11832374691865,UB Index for singles over 21
+2009-09-20,93.67296631059983,UB Index for singles over 21
+2010-03-20,95.06984387838948,UB Index for singles over 21
+2010-09-20,96.4872637633525,UB Index for singles over 21
+2011-03-20,97.55546425636811,UB Index for singles over 21
+2011-09-20,100.0,UB Index for singles over 21
+2012-03-20,100.59572719802794,UB Index for singles over 21
+2012-09-20,101.19145439605587,UB Index for singles over 21
+2013-03-20,102.09531635168447,UB Index for singles over 21
+2013-09-20,102.91700903861955,UB Index for singles over 21
+2014-03-20,104.86852917009037,UB Index for singles over 21
+2014-09-20,105.91618734593263,UB Index for singles over 21
+2015-03-20,106.65571076417422,UB Index for singles over 21
+2015-09-20,107.51848808545603,UB Index for singles over 21
+2016-03-20,108.3812654067379,UB Index for singles over 21
+2016-09-20,108.60723089564503,UB Index for singles over 21
+2017-03-20,110.02465078060806,UB Index for singles over 21
+2017-09-20,110.68200493015613,UB Index for singles over 21
+2018-03-20,112.11996713229252,UB Index for singles over 21
+2018-09-20,113.02382908792113,UB Index for singles over 21
+2019-03-20,114.15365653245686,UB Index for singles over 21
+2019-09-20,114.83155299917831,UB Index for singles over 21
+2020-03-20,116.20788824979458,UB Index for singles over 21
+2020-09-20,116.20788824979458,UB Index for singles over 21
+1990-03-01,50.3,Food
+1990-06-01,51.7,Food
+1990-09-01,51.3,Food
+1990-12-01,51.8,Food
+1991-03-01,52.9,Food
+1991-06-01,52.7,Food
+1991-09-01,53.1,Food
+1991-12-01,53.3,Food
+1992-03-01,53.6,Food
+1992-06-01,53.8,Food
+1992-09-01,53.6,Food
+1992-12-01,53.9,Food
+1993-03-01,55.1,Food
+1993-06-01,54.6,Food
+1993-09-01,55.0,Food
+1993-12-01,55.3,Food
+1994-03-01,55.5,Food
+1994-06-01,55.3,Food
+1994-09-01,55.8,Food
+1994-12-01,56.0,Food
+1995-03-01,57.2,Food
+1995-06-01,57.5,Food
+1995-09-01,58.3,Food
+1995-12-01,58.5,Food
+1996-03-01,58.6,Food
+1996-06-01,59.2,Food
+1996-09-01,59.8,Food
+1996-12-01,60.3,Food
+1997-03-01,60.7,Food
+1997-06-01,61.1,Food
+1997-09-01,61.1,Food
+1997-12-01,61.2,Food
+1998-03-01,61.7,Food
+1998-06-01,62.2,Food
+1998-09-01,63.0,Food
+1998-12-01,63.7,Food
+1999-03-01,64.4,Food
+1999-06-01,64.6,Food
+1999-09-01,64.9,Food
+1999-12-01,65.1,Food
+2000-03-01,65.2,Food
+2000-06-01,65.8,Food
+2000-09-01,66.9,Food
+2000-12-01,67.4,Food
+2001-03-01,69.6,Food
+2001-06-01,70.2,Food
+2001-09-01,70.6,Food
+2001-12-01,72.5,Food
+2002-03-01,72.9,Food
+2002-06-01,72.5,Food
+2002-09-01,73.3,Food
+2002-12-01,74.3,Food
+2003-03-01,75.7,Food
+2003-06-01,75.7,Food
+2003-09-01,75.5,Food
+2003-12-01,76.8,Food
+2004-03-01,78.2,Food
+2004-06-01,77.5,Food
+2004-09-01,77.0,Food
+2004-12-01,78.1,Food
+2005-03-01,78.8,Food
+2005-06-01,78.9,Food
+2005-09-01,79.5,Food
+2005-12-01,81.0,Food
+2006-03-01,82.1,Food
+2006-06-01,85.5,Food
+2006-09-01,87.5,Food
+2006-12-01,87.9,Food
+2007-03-01,85.8,Food
+2007-06-01,87.3,Food
+2007-09-01,89.0,Food
+2007-12-01,88.9,Food
+2008-03-01,90.8,Food
+2008-06-01,90.7,Food
+2008-09-01,92.0,Food
+2008-12-01,93.9,Food
+2009-03-01,96.0,Food
+2009-06-01,95.1,Food
+2009-09-01,94.3,Food
+2009-12-01,95.7,Food
+2010-03-01,96.7,Food
+2010-06-01,96.4,Food
+2010-09-01,95.9,Food
+2010-12-01,98.0,Food
+2011-03-01,100.9,Food
+2011-06-01,102.3,Food
+2011-09-01,102.0,Food
+2011-12-01,100.5,Food
+2012-03-01,98.4,Food
+2012-06-01,99.0,Food
+2012-09-01,100.9,Food
+2012-12-01,100.8,Food
+2013-03-01,100.0,Food
+2013-06-01,100.1,Food
+2013-09-01,100.3,Food
+2013-12-01,101.9,Food
+2014-03-01,102.2,Food
+2014-06-01,102.6,Food
+2014-09-01,103.8,Food
+2014-12-01,103.9,Food
+2015-03-01,104.1,Food
+2015-06-01,103.9,Food
+2015-09-01,104.0,Food
+2015-12-01,104.3,Food
+2016-03-01,104.1,Food
+2016-06-01,103.8,Food
+2016-09-01,105.6,Food
+2016-12-01,106.2,Food
+2017-03-01,106.0,Food
+2017-06-01,105.8,Food
+2017-09-01,104.9,Food
+2017-12-01,106.0,Food
+2018-03-01,106.5,Food
+2018-06-01,106.1,Food
+2018-09-01,106.6,Food
+2018-12-01,107.6,Food
+2019-03-01,109.0,Food
+2019-06-01,108.6,Food
+2019-09-01,109.0,Food
+2019-12-01,110.4,Food
+2020-03-01,112.5,Food
+2020-06-01,113.1,Food
+2020-09-01,112.7,Food
+2020-12-01,112.9,Food
+1990-03-01,91.5,Clothing
+1990-06-01,93.4,Clothing
+1990-09-01,94.0,Clothing
+1990-12-01,95.6,Clothing
+1991-03-01,96.0,Clothing
+1991-06-01,97.4,Clothing
+1991-09-01,97.0,Clothing
+1991-12-01,97.5,Clothing
+1992-03-01,97.3,Clothing
+1992-06-01,97.8,Clothing
+1992-09-01,97.6,Clothing
+1992-12-01,98.7,Clothing
+1993-03-01,98.4,Clothing
+1993-06-01,99.0,Clothing
+1993-09-01,98.0,Clothing
+1993-12-01,97.8,Clothing
+1994-03-01,97.3,Clothing
+1994-06-01,97.4,Clothing
+1994-09-01,97.6,Clothing
+1994-12-01,97.8,Clothing
+1995-03-01,97.2,Clothing
+1995-06-01,98.1,Clothing
+1995-09-01,97.7,Clothing
+1995-12-01,98.0,Clothing
+1996-03-01,97.8,Clothing
+1996-06-01,98.3,Clothing
+1996-09-01,98.1,Clothing
+1996-12-01,98.4,Clothing
+1997-03-01,97.9,Clothing
+1997-06-01,98.2,Clothing
+1997-09-01,98.0,Clothing
+1997-12-01,98.7,Clothing
+1998-03-01,98.3,Clothing
+1998-06-01,98.2,Clothing
+1998-09-01,98.0,Clothing
+1998-12-01,97.9,Clothing
+1999-03-01,97.3,Clothing
+1999-06-01,97.6,Clothing
+1999-09-01,97.2,Clothing
+1999-12-01,96.3,Clothing
+2000-03-01,95.9,Clothing
+2000-06-01,96.8,Clothing
+2000-09-01,103.9,Clothing
+2000-12-01,103.6,Clothing
+2001-03-01,101.4,Clothing
+2001-06-01,103.0,Clothing
+2001-09-01,101.7,Clothing
+2001-12-01,103.1,Clothing
+2002-03-01,102.7,Clothing
+2002-06-01,104.1,Clothing
+2002-09-01,103.4,Clothing
+2002-12-01,104.4,Clothing
+2003-03-01,102.9,Clothing
+2003-06-01,104.1,Clothing
+2003-09-01,103.8,Clothing
+2003-12-01,103.5,Clothing
+2004-03-01,102.1,Clothing
+2004-06-01,103.2,Clothing
+2004-09-01,102.9,Clothing
+2004-12-01,101.5,Clothing
+2005-03-01,100.1,Clothing
+2005-06-01,101.0,Clothing
+2005-09-01,101.1,Clothing
+2005-12-01,101.0,Clothing
+2006-03-01,98.4,Clothing
+2006-06-01,99.3,Clothing
+2006-09-01,99.4,Clothing
+2006-12-01,98.9,Clothing
+2007-03-01,98.6,Clothing
+2007-06-01,100.0,Clothing
+2007-09-01,100.3,Clothing
+2007-12-01,100.5,Clothing
+2008-03-01,98.1,Clothing
+2008-06-01,101.0,Clothing
+2008-09-01,100.3,Clothing
+2008-12-01,100.7,Clothing
+2009-03-01,100.2,Clothing
+2009-06-01,102.3,Clothing
+2009-09-01,102.6,Clothing
+2009-12-01,102.8,Clothing
+2010-03-01,98.4,Clothing
+2010-06-01,98.4,Clothing
+2010-09-01,99.7,Clothing
+2010-12-01,97.9,Clothing
+2011-03-01,97.2,Clothing
+2011-06-01,99.5,Clothing
+2011-09-01,101.0,Clothing
+2011-12-01,100.4,Clothing
+2012-03-01,98.6,Clothing
+2012-06-01,100.0,Clothing
+2012-09-01,100.2,Clothing
+2012-12-01,101.0,Clothing
+2013-03-01,97.1,Clothing
+2013-06-01,99.7,Clothing
+2013-09-01,100.8,Clothing
+2013-12-01,99.7,Clothing
+2014-03-01,97.6,Clothing
+2014-06-01,99.1,Clothing
+2014-09-01,98.1,Clothing
+2014-12-01,98.2,Clothing
+2015-03-01,96.9,Clothing
+2015-06-01,98.2,Clothing
+2015-09-01,97.1,Clothing
+2015-12-01,98.7,Clothing
+2016-03-01,96.1,Clothing
+2016-06-01,98.0,Clothing
+2016-09-01,98.3,Clothing
+2016-12-01,97.8,Clothing
+2017-03-01,96.4,Clothing
+2017-06-01,96.1,Clothing
+2017-09-01,95.2,Clothing
+2017-12-01,94.9,Clothing
+2018-03-01,93.0,Clothing
+2018-06-01,94.2,Clothing
+2018-09-01,94.4,Clothing
+2018-12-01,94.2,Clothing
+2019-03-01,92.9,Clothing
+2019-06-01,94.4,Clothing
+2019-09-01,95.8,Clothing
+2019-12-01,95.5,Clothing
+2020-03-01,94.8,Clothing
+2020-06-01,94.9,Clothing
+2020-09-01,95.3,Clothing
+2020-12-01,94.3,Clothing
+1990-03-01,58.5,Transport
+1990-06-01,58.8,Transport
+1990-09-01,60.0,Transport
+1990-12-01,64.0,Transport
+1991-03-01,61.1,Transport
+1991-06-01,60.7,Transport
+1991-09-01,61.9,Transport
+1991-12-01,62.8,Transport
+1992-03-01,62.8,Transport
+1992-06-01,62.6,Transport
+1992-09-01,63.8,Transport
+1992-12-01,63.8,Transport
+1993-03-01,64.0,Transport
+1993-06-01,64.4,Transport
+1993-09-01,65.1,Transport
+1993-12-01,65.3,Transport
+1994-03-01,65.1,Transport
+1994-06-01,66.2,Transport
+1994-09-01,67.3,Transport
+1994-12-01,67.1,Transport
+1995-03-01,67.4,Transport
+1995-06-01,68.3,Transport
+1995-09-01,70.1,Transport
+1995-12-01,70.3,Transport
+1996-03-01,70.4,Transport
+1996-06-01,71.2,Transport
+1996-09-01,70.9,Transport
+1996-12-01,71.6,Transport
+1997-03-01,72.0,Transport
+1997-06-01,71.2,Transport
+1997-09-01,71.5,Transport
+1997-12-01,71.3,Transport
+1998-03-01,70.7,Transport
+1998-06-01,70.6,Transport
+1998-09-01,70.3,Transport
+1998-12-01,70.1,Transport
+1999-03-01,69.7,Transport
+1999-06-01,70.6,Transport
+1999-09-01,73.0,Transport
+1999-12-01,72.6,Transport
+2000-03-01,74.8,Transport
+2000-06-01,75.9,Transport
+2000-09-01,77.9,Transport
+2000-12-01,78.4,Transport
+2001-03-01,78.6,Transport
+2001-06-01,80.1,Transport
+2001-09-01,78.7,Transport
+2001-12-01,78.3,Transport
+2002-03-01,78.6,Transport
+2002-06-01,80.1,Transport
+2002-09-01,79.8,Transport
+2002-12-01,80.7,Transport
+2003-03-01,82.6,Transport
+2003-06-01,80.2,Transport
+2003-09-01,81.2,Transport
+2003-12-01,80.9,Transport
+2004-03-01,81.4,Transport
+2004-06-01,82.8,Transport
+2004-09-01,83.5,Transport
+2004-12-01,84.6,Transport
+2005-03-01,83.8,Transport
+2005-06-01,85.6,Transport
+2005-09-01,88.4,Transport
+2005-12-01,88.0,Transport
+2006-03-01,89.1,Transport
+2006-06-01,92.1,Transport
+2006-09-01,92.5,Transport
+2006-12-01,89.0,Transport
+2007-03-01,89.5,Transport
+2007-06-01,92.3,Transport
+2007-09-01,91.7,Transport
+2007-12-01,93.9,Transport
+2008-03-01,95.7,Transport
+2008-06-01,98.6,Transport
+2008-09-01,99.6,Transport
+2008-12-01,92.7,Transport
+2009-03-01,91.3,Transport
+2009-06-01,92.8,Transport
+2009-09-01,94.6,Transport
+2009-12-01,93.8,Transport
+2010-03-01,95.0,Transport
+2010-06-01,95.7,Transport
+2010-09-01,95.1,Transport
+2010-12-01,95.4,Transport
+2011-03-01,97.9,Transport
+2011-06-01,99.1,Transport
+2011-09-01,99.2,Transport
+2011-12-01,99.2,Transport
+2012-03-01,100.3,Transport
+2012-06-01,101.3,Transport
+2012-09-01,100.5,Transport
+2012-12-01,101.2,Transport
+2013-03-01,101.7,Transport
+2013-06-01,100.8,Transport
+2013-09-01,103.2,Transport
+2013-12-01,103.1,Transport
+2014-03-01,104.2,Transport
+2014-06-01,103.5,Transport
+2014-09-01,103.4,Transport
+2014-12-01,101.1,Transport
+2015-03-01,97.7,Transport
+2015-06-01,101.0,Transport
+2015-09-01,101.1,Transport
+2015-12-01,99.7,Transport
+2016-03-01,97.2,Transport
+2016-06-01,98.2,Transport
+2016-09-01,97.7,Transport
+2016-12-01,99.4,Transport
+2017-03-01,100.9,Transport
+2017-06-01,100.3,Transport
+2017-09-01,100.3,Transport
+2017-12-01,102.7,Transport
+2018-03-01,103.8,Transport
+2018-06-01,105.5,Transport
+2018-09-01,106.3,Transport
+2018-12-01,105.6,Transport
+2019-03-01,103.8,Transport
+2019-06-01,107.3,Transport
+2019-09-01,107.0,Transport
+2019-12-01,108.6,Transport
+2020-03-01,106.5,Transport
+2020-06-01,99.3,Transport
+2020-09-01,102.7,Transport
+2020-12-01,103.6,Transport
+1990-03-01,36.5,Health
+1990-06-01,36.9,Health
+1990-09-01,37.4,Health
+1990-12-01,39.1,Health
+1991-03-01,40.8,Health
+1991-06-01,41.6,Health
+1991-09-01,42.7,Health
+1991-12-01,44.9,Health
+1992-03-01,47.8,Health
+1992-06-01,45.0,Health
+1992-09-01,44.9,Health
+1992-12-01,45.4,Health
+1993-03-01,47.0,Health
+1993-06-01,47.2,Health
+1993-09-01,47.2,Health
+1993-12-01,47.3,Health
+1994-03-01,49.0,Health
+1994-06-01,49.4,Health
+1994-09-01,50.2,Health
+1994-12-01,50.3,Health
+1995-03-01,51.6,Health
+1995-06-01,52.4,Health
+1995-09-01,52.6,Health
+1995-12-01,53.4,Health
+1996-03-01,54.6,Health
+1996-06-01,54.7,Health
+1996-09-01,55.2,Health
+1996-12-01,56.0,Health
+1997-03-01,58.0,Health
+1997-06-01,59.6,Health
+1997-09-01,56.8,Health
+1997-12-01,59.0,Health
+1998-03-01,59.9,Health
+1998-06-01,61.4,Health
+1998-09-01,61.8,Health
+1998-12-01,61.4,Health
+1999-03-01,55.4,Health
+1999-06-01,55.6,Health
+1999-09-01,56.2,Health
+1999-12-01,56.1,Health
+2000-03-01,57.4,Health
+2000-06-01,57.8,Health
+2000-09-01,58.1,Health
+2000-12-01,58.0,Health
+2001-03-01,59.6,Health
+2001-06-01,59.7,Health
+2001-09-01,59.7,Health
+2001-12-01,59.5,Health
+2002-03-01,61.3,Health
+2002-06-01,63.0,Health
+2002-09-01,63.2,Health
+2002-12-01,63.4,Health
+2003-03-01,65.7,Health
+2003-06-01,67.8,Health
+2003-09-01,67.8,Health
+2003-12-01,67.9,Health
+2004-03-01,70.1,Health
+2004-06-01,72.2,Health
+2004-09-01,71.7,Health
+2004-12-01,71.2,Health
+2005-03-01,74.1,Health
+2005-06-01,75.8,Health
+2005-09-01,75.0,Health
+2005-12-01,74.2,Health
+2006-03-01,77.5,Health
+2006-06-01,79.3,Health
+2006-09-01,78.7,Health
+2006-12-01,78.1,Health
+2007-03-01,80.9,Health
+2007-06-01,82.6,Health
+2007-09-01,82.1,Health
+2007-12-01,81.3,Health
+2008-03-01,84.5,Health
+2008-06-01,86.6,Health
+2008-09-01,86.4,Health
+2008-12-01,85.3,Health
+2009-03-01,89.0,Health
+2009-06-01,91.0,Health
+2009-09-01,90.1,Health
+2009-12-01,89.3,Health
+2010-03-01,93.5,Health
+2010-06-01,95.6,Health
+2010-09-01,94.9,Health
+2010-12-01,93.7,Health
+2011-03-01,97.4,Health
+2011-06-01,99.4,Health
+2011-09-01,98.4,Health
+2011-12-01,97.1,Health
+2012-03-01,101.5,Health
+2012-06-01,103.0,Health
+2012-09-01,105.5,Health
+2012-12-01,104.6,Health
+2013-03-01,107.7,Health
+2013-06-01,109.8,Health
+2013-09-01,109.8,Health
+2013-12-01,109.2,Health
+2014-03-01,112.0,Health
+2014-06-01,115.2,Health
+2014-09-01,115.0,Health
+2014-12-01,114.0,Health
+2015-03-01,116.9,Health
+2015-06-01,120.1,Health
+2015-09-01,120.5,Health
+2015-12-01,120.0,Health
+2016-03-01,122.3,Health
+2016-06-01,125.5,Health
+2016-09-01,125.2,Health
+2016-12-01,124.4,Health
+2017-03-01,126.9,Health
+2017-06-01,130.3,Health
+2017-09-01,130.1,Health
+2017-12-01,129.4,Health
+2018-03-01,132.2,Health
+2018-06-01,134.7,Health
+2018-09-01,134.2,Health
+2018-12-01,133.7,Health
+2019-03-01,136.3,Health
+2019-06-01,138.7,Health
+2019-09-01,138.4,Health
+2019-12-01,138.0,Health
+2020-03-01,140.3,Health
+2020-06-01,140.0,Health
+2020-09-01,139.8,Health
+2020-12-01,141.6,Health
+1990-03-01,71.0,Personal care
+1990-06-01,72.8,Personal care
+1990-09-01,74.0,Personal care
+1990-12-01,75.0,Personal care
+1991-03-01,76.2,Personal care
+1991-06-01,76.9,Personal care
+1991-09-01,76.7,Personal care
+1991-12-01,78.4,Personal care
+1992-03-01,78.8,Personal care
+1992-06-01,79.9,Personal care
+1992-09-01,80.2,Personal care
+1992-12-01,80.5,Personal care
+1993-03-01,80.3,Personal care
+1993-06-01,81.9,Personal care
+1993-09-01,81.6,Personal care
+1993-12-01,82.6,Personal care
+1994-03-01,83.8,Personal care
+1994-06-01,84.6,Personal care
+1994-09-01,84.5,Personal care
+1994-12-01,84.4,Personal care
+1995-03-01,85.3,Personal care
+1995-06-01,85.9,Personal care
+1995-09-01,86.6,Personal care
+1995-12-01,87.4,Personal care
+1996-03-01,87.8,Personal care
+1996-06-01,88.4,Personal care
+1996-09-01,88.8,Personal care
+1996-12-01,89.0,Personal care
+1997-03-01,89.3,Personal care
+1997-06-01,89.1,Personal care
+1997-09-01,88.9,Personal care
+1997-12-01,89.2,Personal care
+1998-03-01,89.1,Personal care
+1998-06-01,89.8,Personal care
+1998-09-01,90.6,Personal care
+1998-12-01,90.6,Personal care
+1999-03-01,91.8,Personal care
+1999-06-01,92.6,Personal care
+1999-09-01,92.4,Personal care
+1999-12-01,92.8,Personal care
+2000-03-01,93.9,Personal care
+2000-06-01,94.0,Personal care
+2000-09-01,93.8,Personal care
+2000-12-01,94.6,Personal care
+2001-03-01,94.0,Personal care
+2001-06-01,95.5,Personal care
+2001-09-01,97.0,Personal care
+2001-12-01,96.7,Personal care
+2002-03-01,96.3,Personal care
+2002-06-01,96.7,Personal care
+2002-09-01,98.4,Personal care
+2002-12-01,98.3,Personal care
+2003-03-01,99.2,Personal care
+2003-06-01,99.5,Personal care
+2003-09-01,99.1,Personal care
+2003-12-01,98.0,Personal care
+2004-03-01,99.2,Personal care
+2004-06-01,99.0,Personal care
+2004-09-01,99.6,Personal care
+2004-12-01,99.3,Personal care
+2005-03-01,99.7,Personal care
+2005-06-01,100.8,Personal care
+2005-09-01,100.3,Personal care
+2005-12-01,101.5,Personal care
+2006-03-01,102.6,Personal care
+2006-06-01,102.6,Personal care
+2006-09-01,103.2,Personal care
+2006-12-01,102.3,Personal care
+2007-03-01,102.1,Personal care
+2007-06-01,102.4,Personal care
+2007-09-01,101.6,Personal care
+2007-12-01,101.8,Personal care
+2008-03-01,101.9,Personal care
+2008-06-01,102.1,Personal care
+2008-09-01,101.8,Personal care
+2008-12-01,101.2,Personal care
+2009-03-01,102.8,Personal care
+2009-06-01,104.6,Personal care
+2009-09-01,104.1,Personal care
+2009-12-01,103.5,Personal care
+2010-03-01,103.0,Personal care
+2010-06-01,102.6,Personal care
+2010-09-01,103.2,Personal care
+2010-12-01,102.2,Personal care
+2011-03-01,102.6,Personal care
+2011-06-01,100.1,Personal care
+2011-09-01,100.1,Personal care
+2011-12-01,99.3,Personal care
+2012-03-01,99.2,Personal care
+2012-06-01,101.4,Personal care
+2012-09-01,101.7,Personal care
+2012-12-01,100.5,Personal care
+2013-03-01,100.0,Personal care
+2013-06-01,99.8,Personal care
+2013-09-01,100.1,Personal care
+2013-12-01,99.5,Personal care
+2014-03-01,97.6,Personal care
+2014-06-01,97.4,Personal care
+2014-09-01,96.3,Personal care
+2014-12-01,97.5,Personal care
+2015-03-01,97.3,Personal care
+2015-06-01,96.4,Personal care
+2015-09-01,94.9,Personal care
+2015-12-01,95.8,Personal care
+2016-03-01,94.3,Personal care
+2016-06-01,93.5,Personal care
+2016-09-01,93.9,Personal care
+2016-12-01,92.0,Personal care
+2017-03-01,92.5,Personal care
+2017-06-01,92.3,Personal care
+2017-09-01,91.4,Personal care
+2017-12-01,90.0,Personal care
+2018-03-01,90.2,Personal care
+2018-06-01,88.4,Personal care
+2018-09-01,88.3,Personal care
+2018-12-01,87.5,Personal care
+2019-03-01,87.3,Personal care
+2019-06-01,87.6,Personal care
+2019-09-01,87.4,Personal care
+2019-12-01,86.5,Personal care
+2020-03-01,88.4,Personal care
+2020-06-01,90.3,Personal care
+2020-09-01,87.6,Personal care
+2020-12-01,86.0,Personal care
+1990-03-01,74.5,Recreation
+1990-06-01,75.3,Recreation
+1990-09-01,75.6,Recreation
+1990-12-01,78.4,Recreation
+1991-03-01,77.7,Recreation
+1991-06-01,77.0,Recreation
+1991-09-01,77.9,Recreation
+1991-12-01,78.8,Recreation
+1992-03-01,77.7,Recreation
+1992-06-01,77.7,Recreation
+1992-09-01,78.0,Recreation
+1992-12-01,79.1,Recreation
+1993-03-01,79.3,Recreation
+1993-06-01,79.7,Recreation
+1993-09-01,80.0,Recreation
+1993-12-01,81.1,Recreation
+1994-03-01,80.5,Recreation
+1994-06-01,81.3,Recreation
+1994-09-01,81.3,Recreation
+1994-12-01,82.5,Recreation
+1995-03-01,82.8,Recreation
+1995-06-01,83.3,Recreation
+1995-09-01,83.4,Recreation
+1995-12-01,84.4,Recreation
+1996-03-01,85.0,Recreation
+1996-06-01,84.2,Recreation
+1996-09-01,84.2,Recreation
+1996-12-01,84.7,Recreation
+1997-03-01,85.5,Recreation
+1997-06-01,85.3,Recreation
+1997-09-01,86.1,Recreation
+1997-12-01,86.4,Recreation
+1998-03-01,87.6,Recreation
+1998-06-01,87.6,Recreation
+1998-09-01,87.2,Recreation
+1998-12-01,88.1,Recreation
+1999-03-01,88.7,Recreation
+1999-06-01,88.4,Recreation
+1999-09-01,88.9,Recreation
+1999-12-01,89.3,Recreation
+2000-03-01,88.7,Recreation
+2000-06-01,88.6,Recreation
+2000-09-01,92.1,Recreation
+2000-12-01,92.0,Recreation
+2001-03-01,91.9,Recreation
+2001-06-01,91.8,Recreation
+2001-09-01,92.5,Recreation
+2001-12-01,94.1,Recreation
+2002-03-01,96.3,Recreation
+2002-06-01,96.8,Recreation
+2002-09-01,97.3,Recreation
+2002-12-01,97.3,Recreation
+2003-03-01,97.7,Recreation
+2003-06-01,97.0,Recreation
+2003-09-01,96.0,Recreation
+2003-12-01,96.8,Recreation
+2004-03-01,95.7,Recreation
+2004-06-01,95.4,Recreation
+2004-09-01,95.9,Recreation
+2004-12-01,96.7,Recreation
+2005-03-01,97.3,Recreation
+2005-06-01,96.0,Recreation
+2005-09-01,97.2,Recreation
+2005-12-01,97.2,Recreation
+2006-03-01,97.8,Recreation
+2006-06-01,97.5,Recreation
+2006-09-01,98.2,Recreation
+2006-12-01,99.5,Recreation
+2007-03-01,98.8,Recreation
+2007-06-01,98.4,Recreation
+2007-09-01,99.7,Recreation
+2007-12-01,100.6,Recreation
+2008-03-01,100.2,Recreation
+2008-06-01,100.0,Recreation
+2008-09-01,101.3,Recreation
+2008-12-01,101.9,Recreation
+2009-03-01,100.7,Recreation
+2009-06-01,100.7,Recreation
+2009-09-01,101.4,Recreation
+2009-12-01,102.9,Recreation
+2010-03-01,101.9,Recreation
+2010-06-01,100.1,Recreation
+2010-09-01,100.8,Recreation
+2010-12-01,101.0,Recreation
+2011-03-01,100.4,Recreation
+2011-06-01,99.8,Recreation
+2011-09-01,100.7,Recreation
+2011-12-01,101.5,Recreation
+2012-03-01,99.5,Recreation
+2012-06-01,98.3,Recreation
+2012-09-01,99.2,Recreation
+2012-12-01,99.8,Recreation
+2013-03-01,99.0,Recreation
+2013-06-01,98.2,Recreation
+2013-09-01,100.1,Recreation
+2013-12-01,102.2,Recreation
+2014-03-01,101.7,Recreation
+2014-06-01,101.4,Recreation
+2014-09-01,102.0,Recreation
+2014-12-01,103.0,Recreation
+2015-03-01,103.7,Recreation
+2015-06-01,102.3,Recreation
+2015-09-01,103.1,Recreation
+2015-12-01,104.8,Recreation
+2016-03-01,103.8,Recreation
+2016-06-01,103.1,Recreation
+2016-09-01,103.7,Recreation
+2016-12-01,104.3,Recreation
+2017-03-01,103.6,Recreation
+2017-06-01,103.0,Recreation
+2017-09-01,104.3,Recreation
+2017-12-01,104.9,Recreation
+2018-03-01,104.2,Recreation
+2018-06-01,103.8,Recreation
+2018-09-01,105.5,Recreation
+2018-12-01,106.7,Recreation
+2019-03-01,105.1,Recreation
+2019-06-01,105.7,Recreation
+2019-09-01,107.3,Recreation
+2019-12-01,108.3,Recreation
+2020-03-01,106.5,Recreation
+2020-06-01,105.4,Recreation
+2020-09-01,106.6,Recreation
+2020-12-01,108.3,Recreation

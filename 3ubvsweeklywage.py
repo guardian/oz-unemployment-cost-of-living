@@ -73,7 +73,8 @@ def makeTestingLine(df):
                 "margin-left": "50",
                 "margin-top": "30",
                 "margin-bottom": "20",
-                "margin-right": "10"
+                "margin-right": "10",
+                "breaks": "no"
             }
         ]
     key = []

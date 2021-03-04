@@ -1,24 +1,4 @@
 Date,variable,value
-1980-05-01,UB Index for singles over 21,21.138044371405094
-1980-11-01,UB Index for singles over 21,21.95973705834018
-1981-05-07,UB Index for singles over 21,21.95973705834018
-1981-11-05,UB Index for singles over 21,23.870172555464254
-1982-05-06,UB Index for singles over 21,23.870172555464254
-1982-11-01,UB Index for singles over 21,26.458504519309777
-1983-05-01,UB Index for singles over 21,28.204601479046836
-1983-11-01,UB Index for singles over 21,30.23829087921117
-1984-05-01,UB Index for singles over 21,32.29252259654889
-1985-11-01,UB Index for singles over 21,37.57189811010682
-1986-05-01,UB Index for singles over 21,39.19474116680362
-1986-11-01,UB Index for singles over 21,39.19474116680362
-1986-12-15,UB Index for singles over 21,40.75595727198028
-1987-01-01,UB Index for singles over 21,40.75595727198028
-1987-06-13,UB Index for singles over 21,43.03615447822514
-1987-12-13,UB Index for singles over 21,44.53574363188168
-1988-06-13,UB Index for singles over 21,46.05587510271158
-1988-12-13,UB Index for singles over 21,47.658175842235
-1989-06-13,UB Index for singles over 21,49.56861133935908
-1989-11-15,UB Index for singles over 21,51.253081347576
 1990-04-18,UB Index for singles over 21,53.410024650780606
 1990-09-20,UB Index for singles over 21,55.17666392769105
 1991-09-20,UB Index for singles over 21,57.046014790468355
@@ -81,46 +61,6 @@ Date,variable,value
 2019-09-20,UB Index for singles over 21,114.83155299917831
 2020-03-20,UB Index for singles over 21,116.20788824979458
 2020-09-20,UB Index for singles over 21,116.20788824979458
-1980-03-01,Rent,20.6
-1980-06-01,Rent,21
-1980-09-01,Rent,21.5
-1980-12-01,Rent,21.8
-1981-03-01,Rent,22.2
-1981-06-01,Rent,22.6
-1981-09-01,Rent,23.2
-1981-12-01,Rent,23.8
-1982-03-01,Rent,24.4
-1982-06-01,Rent,25.2
-1982-09-01,Rent,26.2
-1982-12-01,Rent,26.8
-1983-03-01,Rent,27.2
-1983-06-01,Rent,27.7
-1983-09-01,Rent,28.2
-1983-12-01,Rent,28.6
-1984-03-01,Rent,29.1
-1984-06-01,Rent,29.7
-1984-09-01,Rent,30.3
-1984-12-01,Rent,30.8
-1985-03-01,Rent,31.4
-1985-06-01,Rent,32
-1985-09-01,Rent,33
-1985-12-01,Rent,33.7
-1986-03-01,Rent,34.5
-1986-06-01,Rent,35.4
-1986-09-01,Rent,36.4
-1986-12-01,Rent,37.2
-1987-03-01,Rent,38
-1987-06-01,Rent,38.9
-1987-09-01,Rent,40.2
-1987-12-01,Rent,41.2
-1988-03-01,Rent,42.4
-1988-06-01,Rent,43.4
-1988-09-01,Rent,44.8
-1988-12-01,Rent,45.8
-1989-03-01,Rent,46.9
-1989-06-01,Rent,47.8
-1989-09-01,Rent,48.8
-1989-12-01,Rent,49.6
 1990-03-01,Rent,50.2
 1990-06-01,Rent,50.8
 1990-09-01,Rent,51.5
@@ -245,46 +185,6 @@ Date,variable,value
 2020-06-01,Rent,111
 2020-09-01,Rent,110.8
 2020-12-01,Rent,110.9
-1980-03-01,Milk,
-1980-06-01,Milk,
-1980-09-01,Milk,30.9
-1980-12-01,Milk,32.6
-1981-03-01,Milk,33.5
-1981-06-01,Milk,34.3
-1981-09-01,Milk,35.1
-1981-12-01,Milk,36.2
-1982-03-01,Milk,35.1
-1982-06-01,Milk,35.8
-1982-09-01,Milk,36.4
-1982-12-01,Milk,37.1
-1983-03-01,Milk,37.1
-1983-06-01,Milk,37.5
-1983-09-01,Milk,37.7
-1983-12-01,Milk,38.9
-1984-03-01,Milk,39.3
-1984-06-01,Milk,39.4
-1984-09-01,Milk,39.4
-1984-12-01,Milk,39.4
-1985-03-01,Milk,40.5
-1985-06-01,Milk,41
-1985-09-01,Milk,41.6
-1985-12-01,Milk,42.3
-1986-03-01,Milk,43
-1986-06-01,Milk,43.9
-1986-09-01,Milk,44.5
-1986-12-01,Milk,44.7
-1987-03-01,Milk,45
-1987-06-01,Milk,45.6
-1987-09-01,Milk,46.3
-1987-12-01,Milk,46.8
-1988-03-01,Milk,47.3
-1988-06-01,Milk,47.9
-1988-09-01,Milk,48.3
-1988-12-01,Milk,49
-1989-03-01,Milk,50.4
-1989-06-01,Milk,50.2
-1989-09-01,Milk,50.2
-1989-12-01,Milk,51.1
 1990-03-01,Milk,51.9
 1990-06-01,Milk,52.5
 1990-09-01,Milk,53
@@ -409,46 +309,6 @@ Date,variable,value
 2020-06-01,Milk,106.8
 2020-09-01,Milk,106.4
 2020-12-01,Milk,107.1
-1980-03-01,Vegetables,
-1980-06-01,Vegetables,
-1980-09-01,Vegetables,
-1980-12-01,Vegetables,
-1981-03-01,Vegetables,
-1981-06-01,Vegetables,
-1981-09-01,Vegetables,
-1981-12-01,Vegetables,
-1982-03-01,Vegetables,
-1982-06-01,Vegetables,
-1982-09-01,Vegetables,
-1982-12-01,Vegetables,
-1983-03-01,Vegetables,
-1983-06-01,Vegetables,
-1983-09-01,Vegetables,
-1983-12-01,Vegetables,
-1984-03-01,Vegetables,
-1984-06-01,Vegetables,
-1984-09-01,Vegetables,
-1984-12-01,Vegetables,
-1985-03-01,Vegetables,
-1985-06-01,Vegetables,
-1985-09-01,Vegetables,
-1985-12-01,Vegetables,
-1986-03-01,Vegetables,
-1986-06-01,Vegetables,
-1986-09-01,Vegetables,
-1986-12-01,Vegetables,
-1987-03-01,Vegetables,
-1987-06-01,Vegetables,
-1987-09-01,Vegetables,
-1987-12-01,Vegetables,
-1988-03-01,Vegetables,
-1988-06-01,Vegetables,
-1988-09-01,Vegetables,
-1988-12-01,Vegetables,
-1989-03-01,Vegetables,
-1989-06-01,Vegetables,
-1989-09-01,Vegetables,66.2
-1989-12-01,Vegetables,59.8
 1990-03-01,Vegetables,48.2
 1990-06-01,Vegetables,55.3
 1990-09-01,Vegetables,47.1
@@ -573,46 +433,6 @@ Date,variable,value
 2020-06-01,Vegetables,125.2
 2020-09-01,Vegetables,125.7
 2020-12-01,Vegetables,118.2
-1980-03-01,Utilities,15.6
-1980-06-01,Utilities,16
-1980-09-01,Utilities,16.6
-1980-12-01,Utilities,16.7
-1981-03-01,Utilities,17.9
-1981-06-01,Utilities,18
-1981-09-01,Utilities,18.7
-1981-12-01,Utilities,19.3
-1982-03-01,Utilities,20.6
-1982-06-01,Utilities,21.4
-1982-09-01,Utilities,23.1
-1982-12-01,Utilities,24.8
-1983-03-01,Utilities,25
-1983-06-01,Utilities,25
-1983-09-01,Utilities,25.7
-1983-12-01,Utilities,26.8
-1984-03-01,Utilities,26.7
-1984-06-01,Utilities,26.4
-1984-09-01,Utilities,27.1
-1984-12-01,Utilities,27.8
-1985-03-01,Utilities,28.5
-1985-06-01,Utilities,28.8
-1985-09-01,Utilities,29.2
-1985-12-01,Utilities,29.6
-1986-03-01,Utilities,30.1
-1986-06-01,Utilities,30.1
-1986-09-01,Utilities,30.7
-1986-12-01,Utilities,31.3
-1987-03-01,Utilities,31.5
-1987-06-01,Utilities,31.6
-1987-09-01,Utilities,32.9
-1987-12-01,Utilities,33.2
-1988-03-01,Utilities,33.3
-1988-06-01,Utilities,33.4
-1988-09-01,Utilities,34.6
-1988-12-01,Utilities,34.8
-1989-03-01,Utilities,34.8
-1989-06-01,Utilities,34.8
-1989-09-01,Utilities,35.9
-1989-12-01,Utilities,36.2
 1990-03-01,Utilities,36.3
 1990-06-01,Utilities,36.4
 1990-09-01,Utilities,35.8
@@ -737,46 +557,6 @@ Date,variable,value
 2020-06-01,Utilities,133.6
 2020-09-01,Utilities,132.1
 2020-12-01,Utilities,126
-1980-03-01,Childcare,
-1980-06-01,Childcare,
-1980-09-01,Childcare,
-1980-12-01,Childcare,
-1981-03-01,Childcare,
-1981-06-01,Childcare,
-1981-09-01,Childcare,
-1981-12-01,Childcare,
-1982-03-01,Childcare,26.5
-1982-06-01,Childcare,27.3
-1982-09-01,Childcare,28
-1982-12-01,Childcare,28.7
-1983-03-01,Childcare,30.4
-1983-06-01,Childcare,31
-1983-09-01,Childcare,32.2
-1983-12-01,Childcare,32.8
-1984-03-01,Childcare,34.3
-1984-06-01,Childcare,34.9
-1984-09-01,Childcare,35
-1984-12-01,Childcare,34
-1985-03-01,Childcare,34.8
-1985-06-01,Childcare,35.1
-1985-09-01,Childcare,35.5
-1985-12-01,Childcare,36.5
-1986-03-01,Childcare,38.2
-1986-06-01,Childcare,39.9
-1986-09-01,Childcare,40.7
-1986-12-01,Childcare,40.9
-1987-03-01,Childcare,42.8
-1987-06-01,Childcare,43.4
-1987-09-01,Childcare,44.6
-1987-12-01,Childcare,44.9
-1988-03-01,Childcare,47.4
-1988-06-01,Childcare,48.3
-1988-09-01,Childcare,48.9
-1988-12-01,Childcare,49.6
-1989-03-01,Childcare,51.6
-1989-06-01,Childcare,52.1
-1989-09-01,Childcare,54
-1989-12-01,Childcare,54.3
 1990-03-01,Childcare,57.4
 1990-06-01,Childcare,58.2
 1990-09-01,Childcare,60.1
@@ -901,3 +681,127 @@ Date,variable,value
 2020-06-01,Childcare,7.6
 2020-09-01,Childcare,112.6
 2020-12-01,Childcare,155
+1990-03-01,Personal Care,71
+1990-06-01,Personal Care,72.8
+1990-09-01,Personal Care,74
+1990-12-01,Personal Care,75
+1991-03-01,Personal Care,76.2
+1991-06-01,Personal Care,76.9
+1991-09-01,Personal Care,76.7
+1991-12-01,Personal Care,78.4
+1992-03-01,Personal Care,78.8
+1992-06-01,Personal Care,79.9
+1992-09-01,Personal Care,80.2
+1992-12-01,Personal Care,80.5
+1993-03-01,Personal Care,80.3
+1993-06-01,Personal Care,81.9
+1993-09-01,Personal Care,81.6
+1993-12-01,Personal Care,82.6
+1994-03-01,Personal Care,83.8
+1994-06-01,Personal Care,84.6
+1994-09-01,Personal Care,84.5
+1994-12-01,Personal Care,84.4
+1995-03-01,Personal Care,85.3
+1995-06-01,Personal Care,85.9
+1995-09-01,Personal Care,86.6
+1995-12-01,Personal Care,87.4
+1996-03-01,Personal Care,87.8
+1996-06-01,Personal Care,88.4
+1996-09-01,Personal Care,88.8
+1996-12-01,Personal Care,89
+1997-03-01,Personal Care,89.3
+1997-06-01,Personal Care,89.1
+1997-09-01,Personal Care,88.9
+1997-12-01,Personal Care,89.2
+1998-03-01,Personal Care,89.1
+1998-06-01,Personal Care,89.8
+1998-09-01,Personal Care,90.6
+1998-12-01,Personal Care,90.6
+1999-03-01,Personal Care,91.8
+1999-06-01,Personal Care,92.6
+1999-09-01,Personal Care,92.4
+1999-12-01,Personal Care,92.8
+2000-03-01,Personal Care,93.9
+2000-06-01,Personal Care,94
+2000-09-01,Personal Care,93.8
+2000-12-01,Personal Care,94.6
+2001-03-01,Personal Care,94
+2001-06-01,Personal Care,95.5
+2001-09-01,Personal Care,97
+2001-12-01,Personal Care,96.7
+2002-03-01,Personal Care,96.3
+2002-06-01,Personal Care,96.7
+2002-09-01,Personal Care,98.4
+2002-12-01,Personal Care,98.3
+2003-03-01,Personal Care,99.2
+2003-06-01,Personal Care,99.5
+2003-09-01,Personal Care,99.1
+2003-12-01,Personal Care,98
+2004-03-01,Personal Care,99.2
+2004-06-01,Personal Care,99
+2004-09-01,Personal Care,99.6
+2004-12-01,Personal Care,99.3
+2005-03-01,Personal Care,99.7
+2005-06-01,Personal Care,100.8
+2005-09-01,Personal Care,100.3
+2005-12-01,Personal Care,101.5
+2006-03-01,Personal Care,102.6
+2006-06-01,Personal Care,102.6
+2006-09-01,Personal Care,103.2
+2006-12-01,Personal Care,102.3
+2007-03-01,Personal Care,102.1
+2007-06-01,Personal Care,102.4
+2007-09-01,Personal Care,101.6
+2007-12-01,Personal Care,101.8
+2008-03-01,Personal Care,101.9
+2008-06-01,Personal Care,102.1
+2008-09-01,Personal Care,101.8
+2008-12-01,Personal Care,101.2
+2009-03-01,Personal Care,102.8
+2009-06-01,Personal Care,104.6
+2009-09-01,Personal Care,104.1
+2009-12-01,Personal Care,103.5
+2010-03-01,Personal Care,103
+2010-06-01,Personal Care,102.6
+2010-09-01,Personal Care,103.2
+2010-12-01,Personal Care,102.2
+2011-03-01,Personal Care,102.6
+2011-06-01,Personal Care,100.1
+2011-09-01,Personal Care,100.1
+2011-12-01,Personal Care,99.3
+2012-03-01,Personal Care,99.2
+2012-06-01,Personal Care,101.4
+2012-09-01,Personal Care,101.7
+2012-12-01,Personal Care,100.5
+2013-03-01,Personal Care,100
+2013-06-01,Personal Care,99.8
+2013-09-01,Personal Care,100.1
+2013-12-01,Personal Care,99.5
+2014-03-01,Personal Care,97.6
+2014-06-01,Personal Care,97.4
+2014-09-01,Personal Care,96.3
+2014-12-01,Personal Care,97.5
+2015-03-01,Personal Care,97.3
+2015-06-01,Personal Care,96.4
+2015-09-01,Personal Care,94.9
+2015-12-01,Personal Care,95.8
+2016-03-01,Personal Care,94.3
+2016-06-01,Personal Care,93.5
+2016-09-01,Personal Care,93.9
+2016-12-01,Personal Care,92
+2017-03-01,Personal Care,92.5
+2017-06-01,Personal Care,92.3
+2017-09-01,Personal Care,91.4
+2017-12-01,Personal Care,90
+2018-03-01,Personal Care,90.2
+2018-06-01,Personal Care,88.4
+2018-09-01,Personal Care,88.3
+2018-12-01,Personal Care,87.5
+2019-03-01,Personal Care,87.3
+2019-06-01,Personal Care,87.6
+2019-09-01,Personal Care,87.4
+2019-12-01,Personal Care,86.5
+2020-03-01,Personal Care,88.4
+2020-06-01,Personal Care,90.3
+2020-09-01,Personal Care,87.6
+2020-12-01,Personal Care,86
