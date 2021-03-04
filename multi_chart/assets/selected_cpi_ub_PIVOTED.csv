@@ -681,127 +681,127 @@ Date,variable,value
 2020-06-01,Childcare,7.6
 2020-09-01,Childcare,112.6
 2020-12-01,Childcare,155
-1990-03-01,Personal Care,71
-1990-06-01,Personal Care,72.8
-1990-09-01,Personal Care,74
-1990-12-01,Personal Care,75
-1991-03-01,Personal Care,76.2
-1991-06-01,Personal Care,76.9
-1991-09-01,Personal Care,76.7
-1991-12-01,Personal Care,78.4
-1992-03-01,Personal Care,78.8
-1992-06-01,Personal Care,79.9
-1992-09-01,Personal Care,80.2
-1992-12-01,Personal Care,80.5
-1993-03-01,Personal Care,80.3
-1993-06-01,Personal Care,81.9
-1993-09-01,Personal Care,81.6
-1993-12-01,Personal Care,82.6
-1994-03-01,Personal Care,83.8
-1994-06-01,Personal Care,84.6
-1994-09-01,Personal Care,84.5
-1994-12-01,Personal Care,84.4
-1995-03-01,Personal Care,85.3
-1995-06-01,Personal Care,85.9
-1995-09-01,Personal Care,86.6
-1995-12-01,Personal Care,87.4
-1996-03-01,Personal Care,87.8
-1996-06-01,Personal Care,88.4
-1996-09-01,Personal Care,88.8
-1996-12-01,Personal Care,89
-1997-03-01,Personal Care,89.3
-1997-06-01,Personal Care,89.1
-1997-09-01,Personal Care,88.9
-1997-12-01,Personal Care,89.2
-1998-03-01,Personal Care,89.1
-1998-06-01,Personal Care,89.8
-1998-09-01,Personal Care,90.6
-1998-12-01,Personal Care,90.6
-1999-03-01,Personal Care,91.8
-1999-06-01,Personal Care,92.6
-1999-09-01,Personal Care,92.4
-1999-12-01,Personal Care,92.8
-2000-03-01,Personal Care,93.9
-2000-06-01,Personal Care,94
-2000-09-01,Personal Care,93.8
-2000-12-01,Personal Care,94.6
-2001-03-01,Personal Care,94
-2001-06-01,Personal Care,95.5
-2001-09-01,Personal Care,97
-2001-12-01,Personal Care,96.7
-2002-03-01,Personal Care,96.3
-2002-06-01,Personal Care,96.7
-2002-09-01,Personal Care,98.4
-2002-12-01,Personal Care,98.3
-2003-03-01,Personal Care,99.2
-2003-06-01,Personal Care,99.5
-2003-09-01,Personal Care,99.1
-2003-12-01,Personal Care,98
-2004-03-01,Personal Care,99.2
-2004-06-01,Personal Care,99
-2004-09-01,Personal Care,99.6
-2004-12-01,Personal Care,99.3
-2005-03-01,Personal Care,99.7
-2005-06-01,Personal Care,100.8
-2005-09-01,Personal Care,100.3
-2005-12-01,Personal Care,101.5
-2006-03-01,Personal Care,102.6
-2006-06-01,Personal Care,102.6
-2006-09-01,Personal Care,103.2
-2006-12-01,Personal Care,102.3
-2007-03-01,Personal Care,102.1
-2007-06-01,Personal Care,102.4
-2007-09-01,Personal Care,101.6
-2007-12-01,Personal Care,101.8
-2008-03-01,Personal Care,101.9
-2008-06-01,Personal Care,102.1
-2008-09-01,Personal Care,101.8
-2008-12-01,Personal Care,101.2
-2009-03-01,Personal Care,102.8
-2009-06-01,Personal Care,104.6
-2009-09-01,Personal Care,104.1
-2009-12-01,Personal Care,103.5
-2010-03-01,Personal Care,103
-2010-06-01,Personal Care,102.6
-2010-09-01,Personal Care,103.2
-2010-12-01,Personal Care,102.2
-2011-03-01,Personal Care,102.6
-2011-06-01,Personal Care,100.1
-2011-09-01,Personal Care,100.1
-2011-12-01,Personal Care,99.3
-2012-03-01,Personal Care,99.2
-2012-06-01,Personal Care,101.4
-2012-09-01,Personal Care,101.7
-2012-12-01,Personal Care,100.5
-2013-03-01,Personal Care,100
-2013-06-01,Personal Care,99.8
-2013-09-01,Personal Care,100.1
-2013-12-01,Personal Care,99.5
-2014-03-01,Personal Care,97.6
-2014-06-01,Personal Care,97.4
-2014-09-01,Personal Care,96.3
-2014-12-01,Personal Care,97.5
-2015-03-01,Personal Care,97.3
-2015-06-01,Personal Care,96.4
-2015-09-01,Personal Care,94.9
-2015-12-01,Personal Care,95.8
-2016-03-01,Personal Care,94.3
-2016-06-01,Personal Care,93.5
-2016-09-01,Personal Care,93.9
-2016-12-01,Personal Care,92
-2017-03-01,Personal Care,92.5
-2017-06-01,Personal Care,92.3
-2017-09-01,Personal Care,91.4
-2017-12-01,Personal Care,90
-2018-03-01,Personal Care,90.2
-2018-06-01,Personal Care,88.4
-2018-09-01,Personal Care,88.3
-2018-12-01,Personal Care,87.5
-2019-03-01,Personal Care,87.3
-2019-06-01,Personal Care,87.6
-2019-09-01,Personal Care,87.4
-2019-12-01,Personal Care,86.5
-2020-03-01,Personal Care,88.4
-2020-06-01,Personal Care,90.3
-2020-09-01,Personal Care,87.6
-2020-12-01,Personal Care,86
+1990-03-01,Meat & seafood,60
+1990-06-01,Meat & seafood,60.7
+1990-09-01,Meat & seafood,60.4
+1990-12-01,Meat & seafood,60.4
+1991-03-01,Meat & seafood,61.3
+1991-06-01,Meat & seafood,61
+1991-09-01,Meat & seafood,60.5
+1991-12-01,Meat & seafood,59.7
+1992-03-01,Meat & seafood,60
+1992-06-01,Meat & seafood,60
+1992-09-01,Meat & seafood,59.2
+1992-12-01,Meat & seafood,59.2
+1993-03-01,Meat & seafood,60.3
+1993-06-01,Meat & seafood,60.4
+1993-09-01,Meat & seafood,61
+1993-12-01,Meat & seafood,61.3
+1994-03-01,Meat & seafood,61.2
+1994-06-01,Meat & seafood,61.2
+1994-09-01,Meat & seafood,60.2
+1994-12-01,Meat & seafood,60.8
+1995-03-01,Meat & seafood,62
+1995-06-01,Meat & seafood,62.5
+1995-09-01,Meat & seafood,63.6
+1995-12-01,Meat & seafood,63.1
+1996-03-01,Meat & seafood,64.2
+1996-06-01,Meat & seafood,64.7
+1996-09-01,Meat & seafood,64.9
+1996-12-01,Meat & seafood,65.1
+1997-03-01,Meat & seafood,65.1
+1997-06-01,Meat & seafood,65
+1997-09-01,Meat & seafood,65.6
+1997-12-01,Meat & seafood,65.5
+1998-03-01,Meat & seafood,65.5
+1998-06-01,Meat & seafood,65.5
+1998-09-01,Meat & seafood,65.4
+1998-12-01,Meat & seafood,65.5
+1999-03-01,Meat & seafood,66.1
+1999-06-01,Meat & seafood,67.3
+1999-09-01,Meat & seafood,67.4
+1999-12-01,Meat & seafood,68.3
+2000-03-01,Meat & seafood,68.9
+2000-06-01,Meat & seafood,69.1
+2000-09-01,Meat & seafood,68.2
+2000-12-01,Meat & seafood,69.2
+2001-03-01,Meat & seafood,72
+2001-06-01,Meat & seafood,75.1
+2001-09-01,Meat & seafood,77.4
+2001-12-01,Meat & seafood,79.4
+2002-03-01,Meat & seafood,80.8
+2002-06-01,Meat & seafood,81
+2002-09-01,Meat & seafood,79.9
+2002-12-01,Meat & seafood,80.3
+2003-03-01,Meat & seafood,81.1
+2003-06-01,Meat & seafood,82.1
+2003-09-01,Meat & seafood,83.1
+2003-12-01,Meat & seafood,84.4
+2004-03-01,Meat & seafood,84.8
+2004-06-01,Meat & seafood,84.3
+2004-09-01,Meat & seafood,83.8
+2004-12-01,Meat & seafood,85.2
+2005-03-01,Meat & seafood,86.1
+2005-06-01,Meat & seafood,86.6
+2005-09-01,Meat & seafood,86.6
+2005-12-01,Meat & seafood,86.9
+2006-03-01,Meat & seafood,87.7
+2006-06-01,Meat & seafood,88.5
+2006-09-01,Meat & seafood,88.2
+2006-12-01,Meat & seafood,88.5
+2007-03-01,Meat & seafood,89.3
+2007-06-01,Meat & seafood,89.7
+2007-09-01,Meat & seafood,90
+2007-12-01,Meat & seafood,91.3
+2008-03-01,Meat & seafood,93.6
+2008-06-01,Meat & seafood,93.4
+2008-09-01,Meat & seafood,94
+2008-12-01,Meat & seafood,96.1
+2009-03-01,Meat & seafood,99.1
+2009-06-01,Meat & seafood,98.8
+2009-09-01,Meat & seafood,98.6
+2009-12-01,Meat & seafood,97.9
+2010-03-01,Meat & seafood,99.1
+2010-06-01,Meat & seafood,99.2
+2010-09-01,Meat & seafood,99.8
+2010-12-01,Meat & seafood,100
+2011-03-01,Meat & seafood,101
+2011-06-01,Meat & seafood,101.7
+2011-09-01,Meat & seafood,100.8
+2011-12-01,Meat & seafood,99.9
+2012-03-01,Meat & seafood,99.6
+2012-06-01,Meat & seafood,99.7
+2012-09-01,Meat & seafood,99.7
+2012-12-01,Meat & seafood,100
+2013-03-01,Meat & seafood,99.8
+2013-06-01,Meat & seafood,100.1
+2013-09-01,Meat & seafood,99.1
+2013-12-01,Meat & seafood,99.3
+2014-03-01,Meat & seafood,100.5
+2014-06-01,Meat & seafood,102.8
+2014-09-01,Meat & seafood,103.2
+2014-12-01,Meat & seafood,104.2
+2015-03-01,Meat & seafood,105.8
+2015-06-01,Meat & seafood,106.9
+2015-09-01,Meat & seafood,107
+2015-12-01,Meat & seafood,108.5
+2016-03-01,Meat & seafood,109.8
+2016-06-01,Meat & seafood,109.5
+2016-09-01,Meat & seafood,109.5
+2016-12-01,Meat & seafood,110
+2017-03-01,Meat & seafood,109.9
+2017-06-01,Meat & seafood,109.7
+2017-09-01,Meat & seafood,109.9
+2017-12-01,Meat & seafood,110.5
+2018-03-01,Meat & seafood,110.7
+2018-06-01,Meat & seafood,110.9
+2018-09-01,Meat & seafood,111.4
+2018-12-01,Meat & seafood,113.2
+2019-03-01,Meat & seafood,115.3
+2019-06-01,Meat & seafood,115.6
+2019-09-01,Meat & seafood,117.6
+2019-12-01,Meat & seafood,119.4
+2020-03-01,Meat & seafood,121.8
+2020-06-01,Meat & seafood,122.6
+2020-09-01,Meat & seafood,123.9
+2020-12-01,Meat & seafood,124

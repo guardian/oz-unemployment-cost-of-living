@@ -32,7 +32,7 @@ in_df = pd.read_excel(index_cv, sheet_name="Data1")
 
 nammo = [('Unnamed: 0', "Date"), ("Index Numbers ;  Rents ;  Australia ;", "Rent"), ("Index Numbers ;  Milk ;  Australia ;", "Milk"), 
 ("Index Numbers ;  Vegetables ;  Australia ;", "Vegetables"), ("Index Numbers ;  Utilities ;  Australia ;", "Utilities"),
-("Index Numbers ;  Child care ;  Australia ;", "Childcare"), ("Index Numbers ;  Personal care products ;  Australia ;", "Personal Care")]
+("Index Numbers ;  Child care ;  Australia ;", "Childcare"), ("Index Numbers ;  Meat and seafoods ;  Australia ;", "Meat & seafood")]
 
 speci = [x[0] for x in nammo]
 short_names = [x[1] for x in nammo]
