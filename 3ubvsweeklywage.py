@@ -58,7 +58,7 @@ def makeTestingLine(df):
 	
     template = [
             {
-                "title": "How jobseeker compares to weekly earnings over time",
+                "title": "How jobseeker compares with weekly earnings over time",
                 "subtitle": "Australian average weekly earnings and jobseeker for singles over 21",
                 "footnote": "",
                 "source": "Australian Bureau of Statistics, Department of Social Services",
