@@ -31,11 +31,13 @@ function makeCharts(data) {
     var height = width
     var margin = {top: 20, right: 10, bottom: 20, left:20};
 
-    var numCols
+    var numCols = 3
     if (width <= 500) {
         numCols = 2
-    } else {
-        numCols = 3
+    } 
+
+    if (width <= 400) {
+        numCols = 1
     }
 
     d3.selectAll(".chart-grid").remove()
