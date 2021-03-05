@@ -24,7 +24,7 @@ ub_df['ub_index'] = (ub_df['21 years']/ub_hundert)*100
 # ub_df = ub_df.rename(columns={'Date of effect':"Date", "ub_index": "value", "21 years": "Weekly UB"})
 ub_df = ub_df.rename(columns={'Date of effect':"Date", "21 years": "value"})
 
-ub_df["variable"] = "Unemployment benefit for singles over 21"
+ub_df["variable"] = "Jobseeker"
 
 ub_df['value'] = pd.to_numeric(ub_df['value'])
 
@@ -39,7 +39,7 @@ ww_df = ww_df[['Unnamed: 0', "Earnings; Persons; Full Time; Adult; Ordinary time
 ww_df = ww_df[9:]
 
 ww_df = ww_df.rename(columns={'Unnamed: 0': "Date", "Earnings; Persons; Full Time; Adult; Ordinary time earnings ;": "value"})
-ww_df["variable"] = "Weekly average earnings"
+ww_df["variable"] = "Weekly earnings"
 
 ww_df['value'] = pd.to_numeric(ww_df['value'])
 
@@ -58,8 +58,8 @@ def makeTestingLine(df):
 	
     template = [
             {
-                "title": "Jobseeker/unemployment benefit vs weekly average wage",
-                "subtitle": "Australian unemployment benefits have not kept up with the growth in the weekly average wage",
+                "title": "How jobseeker compares to weekly earnings over time",
+                "subtitle": "Australian average weekly earnings and jobseeker for singles over 21",
                 "footnote": "",
                 "source": "Australian Bureau of Statistics, Department of Social Services",
                 "dateFormat": "%Y-%m-%d",
