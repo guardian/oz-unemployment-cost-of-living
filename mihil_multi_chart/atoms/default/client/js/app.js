@@ -8,11 +8,11 @@ function makeCharts(data) {
 
     console.log(data)
 
-	d3.select("#chartTitle").text("Changes in prices of essential goods and services, compared to unemployment benefits")
+	// d3.select("#chartTitle").text("Changes in prices of essential goods and services, compared to unemployment benefits")
 
-	d3.select("#subTitle").text("Both CPI data and unemployment benefits have been indexed at 100 in 2011")
+	// d3.select("#subTitle").text("Both CPI data and unemployment benefits have been indexed at 100 in 2011")
 
-	d3.select("#sourceText").text("| Sources: Australian Bureau of Statistics' Consumer Price Index, Department of Social Services")
+	// d3.select("#sourceText").text("| Sources: Australian Bureau of Statistics' Consumer Price Index, Department of Social Services")
 
 	var isMobile;
 	var windowWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
@@ -31,14 +31,14 @@ function makeCharts(data) {
     .getBoundingClientRect().width
 
     var height = width
-    var margin = {top: 20, right: 20, bottom: 20, left:20};
+    var margin = {top: 20, right: 10, bottom: 20, left:20};
 
     var numCols
     if (width <= 500) {
-        numCols = 1
-    } else {
         numCols = 2
-    } 
+    } else {
+        numCols = 3
+    }
 
     d3.selectAll(".chart-grid").remove()
 
@@ -102,8 +102,6 @@ function makeCharts(data) {
             .attr("class", "init_svg")
             .attr("width", containerWidth)
             .attr("height", containerHeight)
-            
-
 
 
         var features = init_svg.append("g")
@@ -116,8 +114,6 @@ function makeCharts(data) {
             .attr("transform", "translate(0," + (boxHeight - margin.bottom) + ")")
             .call(d3.axisBottom(x_scale)
             .ticks(4));
-
-
 
         features.append("g")
             .attr("transform", `translate(${margin.left},0)`)
@@ -147,6 +143,12 @@ function makeCharts(data) {
                 }
             })
 
+
+        chartKey.append("span")
+            .attr("class", "keyText")
+            .style("color", color(vary))
+            .text(vary)          
+
         // var varied = init.filter(d => d['variable'] == vary)
         // var ubed = init.filter(d => d['variable'] == "UB Index for singles over 21")
 
@@ -169,21 +171,21 @@ function makeCharts(data) {
         //     .text("Jobseeker");
 
 
-        features.append("text")
-            .attr("transform", "rotate(-90)")
-            .attr("y", 25)
-            // .attr("x", margin.left )
-            .attr("dy", "0.71em")
-            .attr("fill", "#767676")
-            .attr("text-anchor", "end")
-            .text("Index");
+     //    features.append("text")
+     //        .attr("transform", "rotate(-90)")
+     //        .attr("y", 25)
+     //        // .attr("x", margin.left )
+     //        .attr("dy", "0.71em")
+     //        .attr("fill", "#767676")
+     //        .attr("text-anchor", "end")
+     //        .text("Index");
 
-	    features.append("text")
-            .attr("x", boxWidth)
-            .attr("y", boxHeight - margin.bottom - 5)
-            .attr("fill", "#767676")
-            .attr("text-anchor", "end")
-            .text("Date");	
+	    // features.append("text")
+     //        .attr("x", boxWidth)
+     //        .attr("y", boxHeight - margin.bottom - 5)
+     //        .attr("fill", "#767676")
+     //        .attr("text-anchor", "end")
+     //        .text("Date");	
 
             // if (this.isMobile | !this.lineLabelling) {
             //     this.keys.forEach((key) => {
@@ -193,18 +195,20 @@ function makeCharts(data) {
             .domain(labels)
             .range(['#e41a1c','#377eb8','#4daf4a','#984ea3',
             '#ff7f00','#ffff33','#a65628','#f781bf','#999999'])
-            
-            var keyDiv = chartKey.append("div")
-                        .attr("class", "keyDiv")
-            labels.forEach(keyer => {
-                keyDiv.append("span")
-                .attr("class", "keyCircle")
-                .style("background-color", () => labelColor(keyer))
 
-                keyDiv.append("span")
-                .attr("class", "keyText")
-                .text(keyer)
-            })
+
+            
+            // var keyDiv = chartKey.append("div")
+            //             .attr("class", "keyDiv")
+            // labels.forEach(keyer => {
+            //     keyDiv.append("span")
+            //     .attr("class", "keyCircle")
+            //     .style("background-color", () => labelColor(keyer))
+
+            //     keyDiv.append("span")
+            //     .attr("class", "keyText")
+            //     .text(keyer)
+            // })
 
           
             //       $

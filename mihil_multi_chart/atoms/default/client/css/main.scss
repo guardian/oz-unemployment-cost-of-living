@@ -11,4 +11,20 @@
 .interactive-atom {
     margin: 0;
     padding: 0;
+
+    
+    .keyText {
+    	font-size: 14px;
+    	font-weight: bold;
+    }
+
+    .red {
+		color: #e41a1c;
+		font-weight: bold;
+	}
+
+	.blue {
+		color: #377eb8;
+		font-weight: bold;
+	}
 }

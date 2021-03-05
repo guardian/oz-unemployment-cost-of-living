@@ -6,9 +6,9 @@ let target = "#graphicContainer";
 
 function makeCharts(data) {
 
-	d3.select("#chartTitle").text("Changes in prices and unemployment benefits")
+	// d3.select("#chartTitle").text("Changes in prices and unemployment benefits")
 
-	d3.select("#subTitle").text("Both CPI data and unemployment benefits have been indexed at 100 in 2011")
+	// d3.select("#subTitle").text("Both CPI data and unemployment benefits have been indexed at 100 in 2011")
 
 	d3.select("#sourceText").text("| Sources: Australian Bureau of Statistics' Consumer Price Index, Department of Social Services")
 
@@ -29,13 +29,13 @@ function makeCharts(data) {
     .getBoundingClientRect().width
 
     var height = width
-    var margin = {top: 20, right: 20, bottom: 20, left:20};
+    var margin = {top: 20, right: 10, bottom: 20, left:20};
 
     var numCols
     if (width <= 500) {
-        numCols = 1
-    } else {
         numCols = 2
+    } else {
+        numCols = 3
     }
 
     d3.selectAll(".chart-grid").remove()
@@ -68,6 +68,8 @@ function makeCharts(data) {
         var init_grouped = Array.from(d3.group(init, d => d['variable']),
         ([key, values]) => ({key, values}))
 
+        // console.log(init_grouped)
+
         var color = d3.scaleOrdinal()
             .domain(includers)
             .range(['#e41a1c','#377eb8','#4daf4a','#984ea3',
@@ -90,16 +92,14 @@ function makeCharts(data) {
         var init_div = grid_div.append("div")
             .attr("class", "inline-block")
 
-					var chartKey = init_div.append("div")
-            .attr("id", "chartKey")
+		var chartKey = init_div.append("div")
+            .attr("id", "smallKey")
 
         var init_svg = init_div.append("svg")
             .style('background-color', "white")
             .attr("class", "init_svg")
             .attr("width", containerWidth)
             .attr("height", containerHeight)
-
-
 
         var features = init_svg.append("g")
             .attr(
@@ -112,19 +112,11 @@ function makeCharts(data) {
             .call(d3.axisBottom(x_scale)
             .ticks(4));
 
-
-
         features.append("g")
             .attr("transform", `translate(${margin.left},0)`)
             .call(d3.axisLeft(y_scale)
             .ticks(4));
 
-            // init_svg.append("text")
-            // .attr("x", margin.left)
-            // .attr("y", (margin.top - 5))
-            // .attr("text-anchor", "start")
-            // .text(vary)
-            // .attr("class", "subTitle")
 
         features.selectAll(".line")
         .data(init_grouped)
@@ -142,62 +134,45 @@ function makeCharts(data) {
                 }
             })
 
-        // var varied = init.filter(d => d['variable'] == vary)
-        // var ubed = init.filter(d => d['variable'] == "UB Index for singles over 21")
-				//
-				//
-        // // console.log("last?", y_scale(varied[varied.length-1]['value']))
-        // // console.log("x last?", x_scale(timeParse(ubed[ubed.length-1]['Date'])))
-				//
+		var labels = ["Jobseeker", vary]
+
+		var labelColor = d3.scaleOrdinal()
+		.domain(labels)
+		.range(['#e41a1c','#377eb8','#4daf4a','#984ea3',
+			'#ff7f00','#ffff33','#a65628','#f781bf','#999999'])
+
+		// var keyDiv = chartKey.append("div")
+		// 	.attr("class", "keyDiv")
+		// 		labels.forEach(keyer => {
+		// 			keyDiv.append("span")
+		// 		.attr("class", "keyCircle")
+		// 		.style("background-color", () => labelColor(keyer))
+
+		// 		keyDiv.append("span")
+		// 		.attr("class", "keyText")
+		// 		.text(keyer)
+		// })
+
+        chartKey.append("span")
+                .attr("class", "keyText")
+                .style("color", labelColor(vary))
+                .text(vary)       
+
+        // console.log(init_grouped[1].values[init_grouped[1].values.length -1].value)   
+        
         // features.append("text")
-        //     .attr("transform", "translate(" + (x_scale(timeParse(ubed[(ubed.length/2)]['Date']))) + "," + (y_scale(varied[(varied.length/2)]['value']) - 10) + ")")
-        //     .attr("dy", ".35em")
-        //     .attr("text-anchor", "Middle")
-        //     .style("fill", color(vary))
-        //     .text(vary);
-				//
-        // features.append("text")
-        //     .attr("transform", "translate(" + (x_scale(timeParse(ubed[(ubed.length/2)]['Date']))) + "," + (y_scale(ubed[(ubed.length/2)]['value']) - 10) + ")")
-        //     .attr("dy", ".35em")
-        //     .attr("text-anchor", "Middle")
-        //     .style("fill", color("UB Index for singles over 21"))
+        //     .attr("x", x_scale(timeParse(init_grouped[0].values[init_grouped[0].values.length -1].Date)))
+        //     .attr("y", y_scale(+(init_grouped[0].values[init_grouped[0].values.length -1].value)))
+        //     .attr("fill", "#767676")
+        //     .attr("text-anchor", "start")
         //     .text("Jobseeker");
 
-
-        features.append("text")
-            .attr("transform", "rotate(-90)")
-            .attr("y", 25)
-            // .attr("x", margin.left )
-            .attr("dy", "0.71em")
-            .attr("fill", "#767676")
-            .attr("text-anchor", "end")
-            .text("Index");
-
-	    features.append("text")
-            .attr("x", boxWidth)
-            .attr("y", boxHeight - margin.bottom - 5)
-            .attr("fill", "#767676")
-            .attr("text-anchor", "end")
-            .text("Date");
-
-						var labels = ["Jobseeker", vary]
-
-						var labelColor = d3.scaleOrdinal()
-						.domain(labels)
-						.range(['#e41a1c','#377eb8','#4daf4a','#984ea3',
-							'#ff7f00','#ffff33','#a65628','#f781bf','#999999'])
-
-						var keyDiv = chartKey.append("div")
-							.attr("class", "keyDiv")
-								labels.forEach(keyer => {
-									keyDiv.append("span")
-								.attr("class", "keyCircle")
-								.style("background-color", () => labelColor(keyer))
-
-								keyDiv.append("span")
-								.attr("class", "keyText")
-								.text(keyer)
-						})
+        // features.append("text")
+        //     .attr("x", x_scale(timeParse(init_grouped[1].values[init_grouped[1].values.length -1].Date)))
+        //     .attr("y", y_scale(+(init_grouped[1].values[init_grouped[1].values.length -1].value)))
+        //     .attr("fill", "#767676")
+        //     .attr("text-anchor", "start")
+        //     .text(vary);    
 
         //     var	valueline = d3.svg.line()
         //     .x(function(d) { return x(d.date); })
@@ -222,7 +197,7 @@ function makeCharts(data) {
         // if (!this.isMobile && this.lineLabelling) {
 
 
-        //   this.$features
+        // features
         //     .append("text")
         //     .attr("class", "annotationText")
         //     .attr("y", (d) => {

@@ -22,17 +22,16 @@
   clear: both;
 }
 
-@media (max-width: 750px) {
-  .chart-grid {
+.inline-block {
     width: 49.9%;
     margin: 0;
   }
-}
 
-@media (max-width: 500px) {
-  .chart-grid {
-    width: 100%;
+@media (min-width: 500px) {
+  .inline-block {
+    width: 33.29%;
     margin: 0;
+
   }
 }
 
